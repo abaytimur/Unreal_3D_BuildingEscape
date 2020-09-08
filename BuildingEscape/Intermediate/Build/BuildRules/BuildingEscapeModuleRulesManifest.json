@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Kadir\\Projeler\\Unreal\\BuildingEscape\\Unreal_3D_BuildingEscape\\BuildingEscape\\Source\\BuildingEscape\\BuildingEscape.Build.cs",
+		"C:\\Kadir\\Projeler\\Unreal\\BuildingEscape\\Unreal_3D_BuildingEscape\\BuildingEscape\\Source\\BuildingEscape.Target.cs",
+		"C:\\Kadir\\Projeler\\Unreal\\BuildingEscape\\Unreal_3D_BuildingEscape\\BuildingEscape\\Source\\BuildingEscapeEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.3"
+}

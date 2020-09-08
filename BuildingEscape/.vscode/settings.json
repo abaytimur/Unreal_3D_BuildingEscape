@@ -1,0 +1,9 @@
+{
+	"files.exclude": {
+		"C:/Kadir/Projeler/Unreal/BuildingEscape/Unreal_3D_BuildingEscape/BuildingEscape/.vscode": true,
+		"C:/Kadir/Projeler/Unreal/BuildingEscape/Unreal_3D_BuildingEscape/BuildingEscape/Content": true,
+		"C:/Kadir/Projeler/Unreal/BuildingEscape/Unreal_3D_BuildingEscape/BuildingEscape/DerivedDataCache": true,
+		"C:/Kadir/Projeler/Unreal/BuildingEscape/Unreal_3D_BuildingEscape/BuildingEscape/Intermediate": true,
+		"C:/Kadir/Projeler/Unreal/BuildingEscape/Unreal_3D_BuildingEscape/BuildingEscape/Saved": true
+	}
+}
