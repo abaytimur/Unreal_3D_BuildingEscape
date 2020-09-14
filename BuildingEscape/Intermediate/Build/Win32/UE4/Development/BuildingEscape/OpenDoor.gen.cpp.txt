@@ -1,0 +1,5 @@
+C:\Kadir\Projeler\Unreal\BuildingEscape\Unreal_3D_BuildingEscape\BuildingEscape\Intermediate\Build\Win32\UE4\Development\BuildingEscape\Definitions.BuildingEscape.h
+C:\Kadir\Programlar\Unreal Engine\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Kadir\Programlar\Unreal Engine\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Kadir\Projeler\Unreal\BuildingEscape\Unreal_3D_BuildingEscape\BuildingEscape\Source\BuildingEscape/OpenDoor.h
+C:\Kadir\Projeler\Unreal\BuildingEscape\Unreal_3D_BuildingEscape\BuildingEscape\Intermediate\Build\Win32\UE4\Inc\BuildingEscape\OpenDoor.generated.h
